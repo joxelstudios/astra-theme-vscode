@@ -3,6 +3,10 @@
     "publisher": "joxelstudios",
     "displayName": "astra-valorant",
     "description": "A theme based on the character Astra from Valorant.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joxelstudios/astra-theme-vscode.git"
+      },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.46.0"
