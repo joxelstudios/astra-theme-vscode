@@ -1,0 +1,22 @@
+{
+    "name": "astra-valorant",
+    "publisher": "joxelstudios",
+    "displayName": "astra-valorant",
+    "description": "A theme based on the character Astra from Valorant.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Astra 🌌 - Valorant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Astra 🌌 - Valorant-color-theme.json"
+            }
+        ]
+    }
+}
