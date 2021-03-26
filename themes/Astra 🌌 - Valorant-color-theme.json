@@ -2010,12 +2010,12 @@
 	  "progressBar.background": "#ff9b00",
 	  "widget.shadow": "#0000005c",
 	  "editorWidget.foreground": "#cccccc",
-	  "editorWidget.background": "#252526",
-	  "editorWidget.resizeBorder": "#5F5F5F",
-	  "pickerGroup.border": "#3f3f46",
+	  "editorWidget.background": "#191a28",
+	  "editorWidget.resizeBorder": "#3f4275",
+	  "pickerGroup.border": "#191a28",
 	  "pickerGroup.foreground": "#3794ff",
-	  "debugToolBar.background": "#333333",
-	  "debugToolBar.border": "#474747",
+	  "debugToolBar.background": "#191a28",
+	  "debugToolBar.border": "#191a28",
 	  "notifications.foreground": "#cccccc",
 	  "notifications.background": "#191a28",
 	  "notificationToast.border": "#cb3dff44",
@@ -2091,7 +2091,7 @@
 	  "walkThrough.embeddedEditorBackground": "#00000050",
 	  "breadcrumb.activeSelectionForeground": "#e0e0e0",
 	  "editorGutter.commentRangeForeground": "#c5c5c5",
-	  "debugExceptionWidget.background": "#333333",
-	  "debugExceptionWidget.border": "#474747"
+	  "debugExceptionWidget.background": "#191a28",
+	  "debugExceptionWidget.border": "#191a28"
 	}
   }
