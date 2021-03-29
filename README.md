@@ -8,5 +8,4 @@ Big thanks to Mike for creating the [VSCode Theme Studio](https://themes.vscode.
 
 ![screenshot-1](./images/1.jpeg)
 ![screenshot-2](./images/2.jpeg)
-
 ![screenshot-3](./images/3.jpeg)

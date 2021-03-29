@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## 0.2.1
+
+- Fixed some changes in the widget menu which was still displaying default colors.
+
+## 0.2.2
+
+- Added extension icon. 
